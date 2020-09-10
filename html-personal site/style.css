@@ -1,0 +1,18 @@
+#cssmaaauxa{
+  background-color: red;
+}
+
+body{
+  display: flex;
+}
+
+#btnSubmit{
+  padding: 10px;
+  border-radius: 20%;
+  background-color: #222;
+}
+
+input{
+  padding: 10px;
+  border-radius: 10%;
+}
